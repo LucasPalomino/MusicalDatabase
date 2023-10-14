@@ -1,2 +1,2 @@
-# MusicalDatabase
-A short database example
+## MusicalDatabase
+A short database example written in SQL.
